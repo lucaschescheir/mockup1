@@ -1,0 +1,253 @@
+body {
+  background-color: ;
+  margin: 0px;
+  font-style: italic;
+}
+div.maintitle {
+display: flex;
+
+  background-color: white;
+  color: pink;
+  font-size: 12px;
+  justify-content: space-between;
+  height: 8%;
+  padding-top: 10px;
+  word-spacing: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+
+
+}
+div.firstt {
+  word-spacing: 5px;
+  display: flex;
+
+}
+p.topp {
+  padding-left: 15px;
+}
+
+
+}
+#secondt {
+  float: right;
+  font-size: 12px;
+
+
+}
+div.im {
+  font-size: .25em;
+  color: white;
+
+
+
+}
+div.last {
+  background-color: White;
+
+}
+footer {
+  background-color: White;
+  font-size: .5em;
+
+  padding: 10px
+}
+
+
+p.spring {
+  color: lightgrey;
+  height: 25px;
+  border: solid black;
+  margin: none;
+
+
+
+
+
+
+
+}
+#review {
+  color: lightgrey;
+}
+#buy {
+background-color: white;
+padding: 2px;
+
+color: red;
+
+}
+#shop {
+  background-color: lightpink;
+  padding: 10px
+}
+#text {
+  color: white;
+
+  border-top: dashed lightgrey;
+  padding-top:
+}
+#qsneakers {
+  color: white;
+  font-size: 20px;
+  padding-top: 30px;
+}
+#pro {
+  color: red;
+  border-bottom: thin solid;
+  border-color: red;
+
+}
+
+}
+#content {
+
+  color: grey;
+}
+
+u {
+  text-decoration: none;
+  border-bottom: 5px solid pink;
+}
+#review {
+  //text-decoration: underline grey;
+}
+div.mainshoe {
+  display: flex;
+  font-style: normal;
+  justify-content: space-between;
+  padding-right: 10%;
+  padding-left: 10%;
+  //background-color: #ff512f;
+  height: 55%;
+  background: pink; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left, #e01e74 , #ff5023); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, #e01e74, #ff5023); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, #e01e74, #ff5023); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, #e01e74 , #ff5023); /* Standard syntax (must be last) */
+}
+div.image {
+  font-size:8px
+}
+}
+
+
+}
+div.quick {
+  display: flex;
+
+}
+p.qsneakers {
+  padding-top: 30px;
+  color: white;
+  font-size: 18px;
+}
+
+}
+div.all {
+  display: flex;
+  flex-direction: row;
+}
+div.text {
+  border-top: dashed darkgrey 1px;
+  border-width: thin;
+  border-bottom: dashed darkgrey 1px;
+  color: white;
+}
+div.now {
+  display: flex;
+}
+#buN{
+  margin-left: 50px;
+  background-color: white;
+  text-align: center;
+  height: 20px;
+  color: red;
+  padding: 5px;
+  border-radius: 70px;
+  font-size: 12px;
+}
+#money {
+  color: white
+}
+div.last {
+  padding-left: 125px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+div.sneakers {
+  background-color: ;
+  height: 220px;
+  word-spacing: 50px;
+  text-align: center;
+  height: 200px;
+
+
+}
+div.shop {
+  height: 50px;
+  text-align: center;
+  background-color: lightpink;
+  padding-top: 20px;
+}
+
+]
+div.footer {
+  display: flex;
+  font-size: 12px;
+}
+div.everything {
+  display: flex;
+  background-color: red;
+  flex-direction: column;
+  height: 50%;
+}
+div.else {
+  display: flex;
+  flex-direction: row;
+  padding-left: 130px;
+  padding-right: 200px;
+  background-color: red;
+  justify-content: space-between;
+  color: white;
+  font-size: 24px;
+  height: 25px;
+
+}
+div.now {
+  justify-content: space-between;
+  border-bottom: solid pink;
+  color: pink;
+  font-size: 24px;
+  padding-right: 100px
+
+}
+img.picture {
+  padding-top: 8px
+}
+img.cart {
+  padding-left: 8px;
+}
+p.to {
+  padding-top: 15px;
+  font-size: 12px;
+  color: white;
+  padding-bottom: 15px;
+}
+footer {
+  display: flex;
+  justify-content: space-between;
+  color: pink;
+  font-size: 16px;
+  justify-content: space-between;
+  height: 6%;
+  padding-top: 25px;
+  word-spacing: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+div.size {
+
+}
